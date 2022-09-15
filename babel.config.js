@@ -11,10 +11,5 @@ module.exports = function (api) {
         }
       ]
     ],
-    env: {
-      production: {
-        plugins: ['react-native-paper/babel'],
-      },
-    },
   };
 };

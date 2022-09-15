@@ -1,7 +1,9 @@
 {
   "expo": {
-    "name": "uber-clone-yt",
+    "name": "Uber Clone",
     "slug": "uber-clone-yt",
+    "privacy":"public",
+    "description":"uber clone built on react native by jitendrasuthar995@gmail.com",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
