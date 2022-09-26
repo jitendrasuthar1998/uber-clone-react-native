@@ -1,0 +1,10 @@
+what we will learn in this location permission?
+
+
+we will be learning how to manage location services in react native app.
+
+how to ask location permission from user
+
+and also deal with some common road block, like if user turned off location permission manually.
+
+alongwith it we also deal with appState management provided by react native.

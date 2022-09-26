@@ -73,7 +73,7 @@ const OnBoarding = () => {
 
     const renderBottomSection = () => {
         return (
-            <View style={{padding: SIZES.base * 2, flexDirection: "row", justifyContent: "space-between" }}>
+            <View style={{ padding: SIZES.base * 2, flexDirection: "row", justifyContent: "space-between" }}>
                 <View style={{ flexDirection: "row", alignItems: "center" }}>
                     {
                         data.map((_, index) => (
